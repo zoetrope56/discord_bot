@@ -2,3 +2,4 @@ discord==1.0.1
 beautifulsoup4==4.9.1
 python-dotenv==0.14.0
 html5lib
+pymysql
